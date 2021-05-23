@@ -1,4 +1,4 @@
-package com.simplesoftware.buscarcep;
+package com.simplesoftware.buscarcep.model;
 
 public class Endereco {
 

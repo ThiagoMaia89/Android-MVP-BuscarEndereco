@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Buscar CEP</string>
+    <string name="inserir_cep">Digite o CEP</string>
+    <string name="teste">Teste</string>
 </resources>

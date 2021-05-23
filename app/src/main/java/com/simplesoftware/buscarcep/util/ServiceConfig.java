@@ -1,6 +1,6 @@
 package com.simplesoftware.buscarcep.util;
 
-import com.simplesoftware.buscarcep.Endereco;
+import com.simplesoftware.buscarcep.model.Endereco;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
