@@ -1,4 +1,4 @@
-package com.simplesoftware.buscarcep.util;
+package com.simplesoftware.buscarcep.model;
 
 import com.simplesoftware.buscarcep.model.Endereco;
 

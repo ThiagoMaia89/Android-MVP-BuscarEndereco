@@ -1,4 +1,4 @@
-package com.simplesoftware.buscarcep.util;
+package com.simplesoftware.buscarcep.view;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -11,7 +11,6 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.simplesoftware.buscarcep.R;
-import com.simplesoftware.buscarcep.model.Endereco;
 
 import java.util.ArrayList;
 
